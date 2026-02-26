@@ -1,0 +1,8 @@
+# dossiers de réglages des IDE
+.idea/ 
+.vscode/
+
+# fichiers cachés ou temporaires de macOS
+.DS_Store
+~*
+Icon?  
